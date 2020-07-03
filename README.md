@@ -1,4 +1,5 @@
-# A Repository that contains useful mathematical structures implemented in Haskell. Contained is:
+A Repository that contains useful mathematical structures implemented in Haskell. 
+
 
 Structures:
 
