@@ -1,17 +1,8 @@
-A Repository that contains useful mathematical structures implemented in Haskell. 
-
-
-Structures:
-
----- Tree
-
----- Graphs
-
----- Hypercubes
+A Repository that contains useful algorithms implemented in Haskell. 
 
 
 Algorithms:
 
----- Sorting
+---- Generating hypercubes
 
 ---- Graph Colouring
