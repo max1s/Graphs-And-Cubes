@@ -22,7 +22,6 @@ data Graph = Graph { mySize :: Int, myEdges :: [[Int]] } deriving Show
 --genTorus :: Int -> Int -> Graph
 --genHypercube :: Int -> Graph
 --
---greedyColouring :: Graph -> (Int, [Int])
 
 
 -- AUXILIARY FUNCTIONS --
